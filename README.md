@@ -33,5 +33,6 @@ a list of working uri's where you can submit pad.xml files for your software
 | http://www.downloadtube.com/submit-software.php | |
 | http://bestvistadownloads.com/submit-pad-file.html | |
 | https://www.top4download.com/submit-pad-file.html | |
+| http://freeware1.com/submit.php | |
 | https://www.windows7download.com/submit-pad-file.html | |
 
