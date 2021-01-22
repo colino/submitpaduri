@@ -16,11 +16,11 @@ a list of working uri's where you can submit pad.xml files for your software
 | http://www.do-download.com/submit.html | |
 | https://www.soft-go.com/submit-pad.html | |
 | https://www.softwarekb.com/submissions-2/submit-pad-4/ | |
-| http://www.appslooker.com/index.php?a=pad | |
+| http://www.appslooker.com/index.php?a=pad | login required |
 | https://www.windows10compatible.com/submit | |
 | https://www.x64bitdownload.com/submit-pad-file.html | |
 | http://www.filesweb.com/addpad.html |  backlink required |
-| https://www.sooftware.com/submit | |
+| https://www.sooftware.com/submit | login required  |
 | http://www.freshdevices.com/submit.html | |
 | http://www.resourcefill.com/submit.php | backlink required |
 | https://www.downloadtyphoon.com/submit-pad-file | |
