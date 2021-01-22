@@ -35,4 +35,4 @@ a list of working uri's where you can submit pad.xml files for your software
 | https://www.top4download.com/submit-pad-file.html | |
 | http://freeware1.com/submit.php | |
 | https://www.windows7download.com/submit-pad-file.html | |
-
+| https://annesoft.com/submit.html | |
